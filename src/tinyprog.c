@@ -1,7 +1,6 @@
 #include <stdio.h>	/* printf, NULL */
 #include <stdlib.h>	/* srand, rand */
 #include <time.h>	/* time */
-#include <locale.h>
 
 #define MAX_CRING_SIZE 170
 
