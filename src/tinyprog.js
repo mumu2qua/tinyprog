@@ -12,4 +12,4 @@ const phrases = [
 	"Почему ты продолжаешь запускать столь никчёмную программу? Запусти лучше echo"
 ];
 
-console.log(phrases[Math.floor(Math.random() * 10)]);
+console.log(phrases[Math.floor(Math.random() * 12)]);
